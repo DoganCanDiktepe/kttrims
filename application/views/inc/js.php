@@ -1,0 +1,1 @@
+<script src="<?php echo base_url('bundle/dist/web.js')?>"></script>

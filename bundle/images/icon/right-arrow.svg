@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="19px" viewBox="0 0 28 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process" transform="translate(-513.000000, -887.000000)" fill-rule="nonzero" fill="#1E201D">
+            <g id="box" transform="translate(120.000000, 577.000000)">
+                <g id="tab-menu" transform="translate(0.000000, 293.000000)">
+                    <path d="M412.085042,17.2857465 C411.716918,16.9047512 411.104236,16.9047512 410.723241,17.2857465 C410.355117,17.6538705 410.355117,18.2665523 410.723241,18.6338181 L417.628353,25.5389305 L394.842426,25.5389305 C394.311264,25.5397886 393.88908,25.9619727 393.88908,26.4931352 C393.88908,27.0242977 394.311264,27.4602114 394.842426,27.4602114 L417.628353,27.4602114 L410.723241,34.3524524 C410.355117,34.7334477 410.355117,35.3469876 410.723241,35.7142535 C411.104236,36.0952488 411.717776,36.0952488 412.085042,35.7142535 L420.624831,27.1744648 C421.005826,26.8063409 421.005826,26.1936591 420.624831,25.8263933 L412.085042,17.2857465 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
